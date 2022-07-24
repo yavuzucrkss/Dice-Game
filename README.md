@@ -1,7 +1,7 @@
 # Dice-Game
 My first js project
 
-###To roll the dice you need to refresh the page.
+### To roll the dice you need to refresh the page.
 
 ![image](https://user-images.githubusercontent.com/81562942/180648044-44da8cd9-71d2-4e74-a412-10976eb55bb2.png)
 
