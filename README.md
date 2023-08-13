@@ -1,5 +1,5 @@
 # Dice-Game
-My first js project
+My first js app
 
 ### To roll the dice you need to refresh the page.
 
